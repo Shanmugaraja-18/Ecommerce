@@ -1,0 +1,23 @@
+{
+  "/api/address/add-new-address": {},
+  "/api/address/delete-address": {},
+  "/api/address/get-all-address": {},
+  "/api/address/update-address": {},
+  "/api/admin/add-product": {},
+  "/api/admin/all-products": {},
+  "/api/admin/delete-product": {},
+  "/api/admin/orders/get-all-orders": {},
+  "/api/admin/orders/update-order": {},
+  "/api/admin/product-by-category": {},
+  "/api/admin/product-by-id": {},
+  "/api/admin/update-product": {},
+  "/api/cart/add-to-cart": {},
+  "/api/cart/all-cart-items": {},
+  "/api/cart/delete-from-cart": {},
+  "/api/login": {},
+  "/api/order/create-order": {},
+  "/api/order/get-all-orders": {},
+  "/api/order/order-details": {},
+  "/api/register": {},
+  "/api/stripe": {}
+}
